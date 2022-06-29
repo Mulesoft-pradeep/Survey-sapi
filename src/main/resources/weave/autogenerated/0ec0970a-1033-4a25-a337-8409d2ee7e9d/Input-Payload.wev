@@ -1,0 +1,10 @@
+%dw 2.0
+
+type auto_0ec0970a_1033_4a25_a337_8409d2ee7e9d_Input_Payload = {
+  survey_id: String, 
+  agentId: String, 
+  surveyDate: Array<{    questionId: String,     response: Number,     _?: Any  }>, 
+  agentName: String, 
+  _?: Any
+}
+
