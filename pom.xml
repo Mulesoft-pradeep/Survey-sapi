@@ -35,8 +35,8 @@
 							<muleVersion>4.4.0</muleVersion>
 							<username>PreddysTrail574</username>
 							<password>PreddysTrail574</password>
-							<applicationName>survey-insert-sapi</applicationName>
-							<environment>Design</environment>
+							<applicationName>survey-s3bucket-insert-pradeep-api</applicationName>
+							<environment>Sandbox</environment>
 							<workerType>MICRO</workerType>
 							<objectStoreV2>true</objectStoreV2>
 						</cloudHubDeployment>
